@@ -35,7 +35,6 @@ This is a backend application for an E-Commerce platform built with **Spring Boo
 - **Database**: MySQL / PostgreSQL
 - **Authentication**: JWT (JSON Web Tokens)
 - **Build Tool**: Maven / Gradle
-- **Payment Integration**: (e.g., Razorpay, Stripe)
 
 ---
 
